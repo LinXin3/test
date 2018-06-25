@@ -1,3 +1,6 @@
 public void test（）{
 	System.out.println("林鑫修改1")；
 }
+public void test2(){
+	System.out.println("邓威生");
+}
